@@ -1,1 +1,3 @@
-# unnamed-project
+# Fancy project
+
+Using AWS and ReactJS.
